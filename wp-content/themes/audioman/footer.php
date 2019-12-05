@@ -23,7 +23,7 @@
 			<div id="site-generator">
 				<?php get_template_part('template-parts/navigation/navigation', 'footer'); ?>
 
-				<?php get_template_part('template-parts/footer/site', 'info'); ?>
+				<!-- ?php get_template_part('template-parts/footer/site', 'info'); ?-->
 			</div><!-- #site-generator -->
 		</footer><!-- #colophon -->
 

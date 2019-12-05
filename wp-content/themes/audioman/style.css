@@ -1404,7 +1404,9 @@ a:focus {
 	outline: thin dotted;
 }
 
-a:hover,
+a:hover {
+	color: #ff3a2e;
+}
 a:active {
 	outline: 0;
 }
@@ -1442,7 +1444,9 @@ a:active {
 	text-decoration: none;
 	text-transform: uppercase;
 }
-
+main-navigation a:hover  {
+	color: #ff3a2e;
+}
 .search-container {
 	padding: 21px;
 }
